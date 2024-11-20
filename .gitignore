@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Office ###
+.pptx
+.ppt
+/BOOTCAMP - Patrón publicador subscriptor.pptx
